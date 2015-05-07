@@ -1,2 +1,2 @@
 # BaseTheme
-BaseTheme is a starter theme for WordPress that utilizes HTML5, Sass and Grunt.js for rapid, clean WordPress Development.
+BaseTheme is a starter theme for WordPress that utilizes HTML5, <a href="http://sass-lang.com/" target="_blank">Sass</a>, <a href="https://github.com/postcss/autoprefixer" target="_blank">autoprefixer</a> and <a href="http://gulpjs.com/" target="_blank">Gulp</a> for rapid, clean WordPress Development. Stylish CSS reset provided by <a href="https://github.com/mblode/marx" target="_blank">Marx</a>.
